@@ -1,0 +1,1 @@
+- Adds Spatial map of room
